@@ -1,18 +1,17 @@
-
-
+ 
 # freebooks
 
  分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...   
-
+ 
 
  更新日期：2023年10月27日
 
  
 
-
+ 
 ## C&C++
 
-
+  
   * [VisualC++通用范例开发金典](http://book.sjtt.cc/details/169814243422324721) 
   * [VisualC++编程实战宝典](http://book.sjtt.cc/details/169814243422173420) 
   * [VisualC++编程技巧精选集](http://book.sjtt.cc/details/169814243421968564) 
@@ -28,10 +27,10 @@
   * [一站式学习C编程](http://book.sjtt.cc/details/169776342759639078) 
   * [C++Primer中文版（第5版）](http://book.sjtt.cc/details/169776342759464546)  
 
-
+ 
 ## C#语言
 
-
+  
   * [.NETCore实战——手把手教你掌握380个精彩案例](http://book.sjtt.cc/details/169821884214126142) 
   * [.NETCore底层入门](http://book.sjtt.cc/details/169821884214080585) 
   * [C#程序员参考手册](http://book.sjtt.cc/details/169797277011985170) 
@@ -48,10 +47,10 @@
   * [深入理解C#（第3版）](http://book.sjtt.cc/details/169771476852572638) 
   * [C#高级编程(第11版)](http://book.sjtt.cc/details/169771476852283875)  
 
-
+ 
 ## Java
 
-
+  
   * [基于Kotlin的SpringBoot微服务实战](http://book.sjtt.cc/details/169821884212610788) 
   * [疯狂SpringBoot终极讲义](http://book.sjtt.cc/details/169821884212457498) 
   * [SpringBoot从入门到实战](http://book.sjtt.cc/details/169821884212288615) 
@@ -65,10 +64,10 @@
   * [Spring实战（第4版）](http://book.sjtt.cc/details/169776342758445086) 
   * [SpringBoot+Vue全栈开发实战](http://book.sjtt.cc/details/169776342758235827)  
 
-
+ 
 ## Python
 
-
+  
   * [FlaskWeb开发-基于Python的Web应用开发实战（第2版）](http://book.sjtt.cc/details/169784759390737669) 
   * [FlaskWeb开发：基于Python的Web应用开发实战](http://book.sjtt.cc/details/169784759390340488) 
   * [MayaPython游戏与影视编程指南](http://book.sjtt.cc/details/169784759390154911) 
@@ -168,27 +167,28 @@
   * [用Python写网络爬虫](http://book.sjtt.cc/details/169778342995679848) 
   * [真实世界的Python仪器监控](http://book.sjtt.cc/details/169778342995424446)  
 
-
+ 
 ## 人工智能
 
-
+  
   * [机器学习-实用案例解析](http://book.sjtt.cc/details/169814243423310610) 
   * [机器学习实战](http://book.sjtt.cc/details/169814243423111082) 
   * [机器学习](http://book.sjtt.cc/details/169814243422950987) 
   * [百面机器学习-算法工程师带你去面试](http://book.sjtt.cc/details/169814243422786747)  
 
-
+ 
 ## Web前端
 
-
+  
+  * [JavaScript语言精髓与编程实践（第3版）](http://book.sjtt.cc/details/169840571054361814) 
   * [LearningTypeScript中文版](http://book.sjtt.cc/details/169778342995257771) 
   * [Vue.js权威指南](http://book.sjtt.cc/details/169778342995062259) 
   * [Vue.js实战](http://book.sjtt.cc/details/169778342994851531)  
 
-
+ 
 ## 数据库
 
-
+  
   * [高性能MySQL(第3版)](http://book.sjtt.cc/details/169797277012730888) 
   * [MySQLCookbook(第2版)](http://book.sjtt.cc/details/169797277012574151) 
   * [SQL经典实例](http://book.sjtt.cc/details/169776342758073767) 
@@ -198,18 +198,19 @@
   * [3天入门MySQL（千峰教育）](http://book.sjtt.cc/details/169776342757254985) 
   * [深入MySQL实战](http://book.sjtt.cc/details/169776342757021449)  
 
-
+ 
 ## 自媒体
 
-
+  
   * [剪映视频剪辑从小白到大师：电脑版](http://book.sjtt.cc/details/169819599603315851) 
   * [抖音+剪映+Premiere短视频制作从新手到高手](http://book.sjtt.cc/details/169819599603026868) 
   * [手机短视频拍摄与剪辑从新手到高手](http://book.sjtt.cc/details/169819599602732776)  
 
-
+ 
 ## 面试笔记
 
-
+  
+  * [Java程序员面试笔试宝典](http://book.sjtt.cc/details/169840571054519464) 
   * [公务员考试面试-漫画题集](http://book.sjtt.cc/details/169821884213137512) 
   * [500强企业面试题与面试流程全记录](http://book.sjtt.cc/details/169821884212959294)  
 
@@ -217,7 +218,7 @@
 
  
 
-
+ 
 ## 关于作者：
 
  微信： 
