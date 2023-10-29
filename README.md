@@ -4,7 +4,7 @@
  分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...   
  
 
- 更新日期：2023年10月27日
+ 更新日期：2023年10月29日
 
  
 
@@ -180,6 +180,10 @@
 ## Web前端
 
   
+  * [深入浅出Vue.js](http://book.sjtt.cc/details/169845012012984967) 
+  * [Vue.js从入门到项目实践（超值版）](http://book.sjtt.cc/details/169845012012786879) 
+  * [Vue.js+Node.js全栈开发实战](http://book.sjtt.cc/details/169845012012576870) 
+  * [循序渐进Vue.js3前端开发实战](http://book.sjtt.cc/details/169845012012360966) 
   * [JavaScript语言精髓与编程实践（第3版）](http://book.sjtt.cc/details/169840571054361814) 
   * [LearningTypeScript中文版](http://book.sjtt.cc/details/169778342995257771) 
   * [Vue.js权威指南](http://book.sjtt.cc/details/169778342995062259) 
@@ -189,6 +193,10 @@
 ## 数据库
 
   
+  * [深入浅出PostgreSQL](http://book.sjtt.cc/details/169845012010769719) 
+  * [PostgreSQL指南：内幕探索](http://book.sjtt.cc/details/169845012010518674) 
+  * [PostgreSQL即学即用（第3版）](http://book.sjtt.cc/details/169845012010370945) 
+  * [PostgreSQL实战教程](http://book.sjtt.cc/details/169845012010128603) 
   * [高性能MySQL(第3版)](http://book.sjtt.cc/details/169797277012730888) 
   * [MySQLCookbook(第2版)](http://book.sjtt.cc/details/169797277012574151) 
   * [SQL经典实例](http://book.sjtt.cc/details/169776342758073767) 
@@ -231,6 +239,6 @@
 
  更多免费电子书请到[无忧书库](http://book.sjtt.cc)自行搜索
 
- 如果找不到你想到的书请微信联系我，我会第一时间收集发布！
+ 如果找不到你想要的书请微信联系我，我会第一时间收集发布！
 
  
