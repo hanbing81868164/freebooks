@@ -4,7 +4,7 @@
  分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...   
  
 
- 更新日期：2023年10月29日
+ 更新日期：2023年11月09日
 
  
 
@@ -12,6 +12,23 @@
 ## C&C++
 
   
+  * [嵌入式Linux设备驱动程序开发指南(原书第2版)2021](http://book.sjtt.cc/details/169918170005486247) 
+  * [嵌入式C语言自我修养：从芯片、编译器到操作系统](http://book.sjtt.cc/details/169918170005254810) 
+  * [C++新经典：对象模型](http://book.sjtt.cc/details/169918170004556934) 
+  * [C++新经典](http://book.sjtt.cc/details/169918170004382815) 
+  * [C++从入门到精通](http://book.sjtt.cc/details/169918170004122836) 
+  * [C语言程序设计（第4版）(谭浩强)](http://book.sjtt.cc/details/169918170000239296) 
+  * [C语言程序设计：现代方法（第2版•修订版）](http://book.sjtt.cc/details/169918170000052000) 
+  * [征服C指针（第2版）](http://book.sjtt.cc/details/169918169999588791) 
+  * [C++PrimerPlus：中文版（第六版）](http://book.sjtt.cc/details/169898020036159503) 
+  * [现代C++语言核心特性解析](http://book.sjtt.cc/details/169898020035923398) 
+  * [C++20高级编程](http://book.sjtt.cc/details/169845012025977116) 
+  * [C++并发编程实战（第二版）](http://book.sjtt.cc/details/169845012020647334) 
+  * [QtCreator快速入门（第3版）](http://book.sjtt.cc/details/169845012020057932) 
+  * [Qt6C++开发指南](http://book.sjtt.cc/details/169845012019822338) 
+  * [Qt5.9C++开发指南](http://book.sjtt.cc/details/169845012019671021) 
+  * [Unity与C++网络游戏开发实战：基于VR、AI与分布式架构](http://book.sjtt.cc/details/169845012017159636) 
+  * [C/C++代码调试的艺术](http://book.sjtt.cc/details/169845012016944358) 
   * [VisualC++通用范例开发金典](http://book.sjtt.cc/details/169814243422324721) 
   * [VisualC++编程实战宝典](http://book.sjtt.cc/details/169814243422173420) 
   * [VisualC++编程技巧精选集](http://book.sjtt.cc/details/169814243421968564) 
@@ -31,6 +48,12 @@
 ## C#语言
 
   
+  * [葵花宝典:WPF自学手册](http://book.sjtt.cc/details/169918170009630757) 
+  * [WPF编程宝典使用C#2012和.NET4.5](http://book.sjtt.cc/details/169918170007286329) 
+  * [深入浅出WPF](http://book.sjtt.cc/details/169918170007015649) 
+  * [C#从入门到精通（第7版）](http://book.sjtt.cc/details/169918170003936937) 
+  * [LearningBlazorBuildSingle-PageAppswithWebAssemblyandC#](http://book.sjtt.cc/details/169845012021914978) 
+  * [ASP.NETCore技术内幕与项目实战_基于DDD与前后端分离](http://book.sjtt.cc/details/169845012014887934) 
   * [.NETCore实战——手把手教你掌握380个精彩案例](http://book.sjtt.cc/details/169821884214126142) 
   * [.NETCore底层入门](http://book.sjtt.cc/details/169821884214080585) 
   * [C#程序员参考手册](http://book.sjtt.cc/details/169797277011985170) 
@@ -68,6 +91,10 @@
 ## Python
 
   
+  * [深度学习入门：基于Python的理论与实现](http://book.sjtt.cc/details/169918170005861954) 
+  * [利用Python进行数据分析中文第二版](http://book.sjtt.cc/details/169918170005674726) 
+  * [流畅的Python（第2版）](http://book.sjtt.cc/details/169845012020470338) 
+  * [Python编程：从入门到实践（第3版）](http://book.sjtt.cc/details/169845012020249801) 
   * [FlaskWeb开发-基于Python的Web应用开发实战（第2版）](http://book.sjtt.cc/details/169784759390737669) 
   * [FlaskWeb开发：基于Python的Web应用开发实战](http://book.sjtt.cc/details/169784759390340488) 
   * [MayaPython游戏与影视编程指南](http://book.sjtt.cc/details/169784759390154911) 
@@ -168,6 +195,15 @@
   * [真实世界的Python仪器监控](http://book.sjtt.cc/details/169778342995424446)  
 
  
+## Go语言
+
+  
+  * [深入学习Go语言](http://book.sjtt.cc/details/169845012028082651) 
+  * [Go语言底层原理剖析](http://book.sjtt.cc/details/169845012027881371) 
+  * [Go语言高级编程](http://book.sjtt.cc/details/169845012027622772) 
+  * [Go语言从入门到进阶实战](http://book.sjtt.cc/details/169845012027412073)  
+
+ 
 ## 人工智能
 
   
@@ -180,6 +216,9 @@
 ## Web前端
 
   
+  * [Vue.js设计与实现](http://book.sjtt.cc/details/169845012017320839) 
+  * [Bootstrap从入门到项目实战](http://book.sjtt.cc/details/169845012015215133) 
+  * [BootstrapWeb设计与开发实战](http://book.sjtt.cc/details/169845012015017612) 
   * [深入浅出Vue.js](http://book.sjtt.cc/details/169845012012984967) 
   * [Vue.js从入门到项目实践（超值版）](http://book.sjtt.cc/details/169845012012786879) 
   * [Vue.js+Node.js全栈开发实战](http://book.sjtt.cc/details/169845012012576870) 
@@ -221,6 +260,24 @@
   * [Java程序员面试笔试宝典](http://book.sjtt.cc/details/169840571054519464) 
   * [公务员考试面试-漫画题集](http://book.sjtt.cc/details/169821884213137512) 
   * [500强企业面试题与面试流程全记录](http://book.sjtt.cc/details/169821884212959294)  
+
+ 
+## 其它
+
+  
+  * [x86汇编语言：从实模式到保护模式（第2版）](http://book.sjtt.cc/details/169918170010070655) 
+  * [汇编语言（第4版）](http://book.sjtt.cc/details/169918170009881856) 
+  * [埃隆·马斯克传](http://book.sjtt.cc/details/169918170000874558) 
+  * [太白金星有点烦(马伯庸)](http://book.sjtt.cc/details/169918170000618172) 
+  * [我与地坛(史铁生2020版)](http://book.sjtt.cc/details/169918170000478080) 
+  * [始于极限_女性主义往复书简](http://book.sjtt.cc/details/169845012023511446) 
+  * [应得的权利：男性特权如何伤害女性](http://book.sjtt.cc/details/169845012023367366) 
+  * [必有人重写爱情](http://book.sjtt.cc/details/169845012023186097) 
+  * [我本芬芳](http://book.sjtt.cc/details/169845012022960738) 
+  * [如雪如山](http://book.sjtt.cc/details/169845012022765610) 
+  * [看不见的女性](http://book.sjtt.cc/details/169845012022529453) 
+  * [足利女童连续失踪事件](http://book.sjtt.cc/details/169845012022322867) 
+  * [可能性的艺术：比较政治学30讲](http://book.sjtt.cc/details/169845012022167959)  
 
  
 
