@@ -6,6 +6,11 @@
 
 ## C&C++
 
+- [C++面向对象高效编程(第2版)](http://book.sjtt.cc/details/170055240964471952)
+- [C++覆辙录](http://book.sjtt.cc/details/170055240964263369)
+- [C++Templates中文版](http://book.sjtt.cc/details/170055240964031531)
+- [C++编程惯用法——高级程序员常用方法和技巧](http://book.sjtt.cc/details/170055240963842002)
+- [C++API设计](http://book.sjtt.cc/details/170055240963657641)
 - [深入浅出WebAssembly](http://book.sjtt.cc/details/169991697207618015)
 - [WebAssembly实战](http://book.sjtt.cc/details/169991697207449309)
 - [面向WebAssembly编程：应用开发方法与实践](http://book.sjtt.cc/details/169991697207239283)
