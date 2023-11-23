@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2023年11月21日
+更新日期：2023年11月23日
 
 ## C&C++
 
@@ -91,6 +91,11 @@
 
 ## Python
 
+- [Pythonasyncio并发编程](http://book.sjtt.cc/details/170055240970368834)
+- [Python大数据架构全栈开发与应用](http://book.sjtt.cc/details/170055240970148123)
+- [Python贝叶斯分析（第2版）](http://book.sjtt.cc/details/170055240969969665)
+- [Python机器学习入门与实战](http://book.sjtt.cc/details/170055240969757917)
+- [Python极简讲义：一本书入门数据分析与机器学习](http://book.sjtt.cc/details/170055240969537563)
 - [PythonOpenCV从入门到精通](http://book.sjtt.cc/details/169959493068964601)
 - [Python高性能编程](http://book.sjtt.cc/details/169949114751986772)
 - [深度学习入门：基于Python的理论与实现](http://book.sjtt.cc/details/169918170005861954)
