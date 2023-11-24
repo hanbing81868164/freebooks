@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2023年11月23日
+更新日期：2023年11月24日
 
 ## C&C++
 
@@ -243,6 +243,9 @@
 
 ## 数据库
 
+- [达梦数据库运维实战](http://book.sjtt.cc/details/170055240971687458)
+- [达梦数据库应用基础（第二版）](http://book.sjtt.cc/details/170055240971435736)
+- [达梦数据库集群](http://book.sjtt.cc/details/170055240971263936)
 - [深入浅出PostgreSQL](http://book.sjtt.cc/details/169845012010769719)
 - [PostgreSQL指南：内幕探索](http://book.sjtt.cc/details/169845012010518674)
 - [PostgreSQL即学即用（第3版）](http://book.sjtt.cc/details/169845012010370945)
@@ -267,6 +270,16 @@
 - [Java程序员面试笔试宝典](http://book.sjtt.cc/details/169840571054519464)
 - [公务员考试面试-漫画题集](http://book.sjtt.cc/details/169821884213137512)
 - [500强企业面试题与面试流程全记录](http://book.sjtt.cc/details/169821884212959294)
+
+## 操作系统
+
+- [大学霸KaliLinux安全渗透教程](http://book.sjtt.cc/details/170055240973062566)
+- [Linux是怎样工作的](http://book.sjtt.cc/details/170055240972869975)
+- [深入理解Linux网络：修炼底层内功，掌握高性能原理](http://book.sjtt.cc/details/170055240972645474)
+- [Linux命令行与shell脚本编程大全（第4版）](http://book.sjtt.cc/details/170055240972489898)
+- [Linux系统安全基础：二进制代码安全性分析基础与实践](http://book.sjtt.cc/details/170055240972269443)
+- [奔跑吧Linux内核（第2版）卷2：调试与案例分析](http://book.sjtt.cc/details/170055240972038692)
+- [零基础趣学Linux](http://book.sjtt.cc/details/170055240971854303)
 
 ## 其它
 
