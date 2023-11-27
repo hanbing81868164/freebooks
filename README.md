@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2023年11月25日
+更新日期：2023年11月27日
 
 ## C&C++
 
@@ -18,6 +18,8 @@
 - [WebAssembly实战](http://book.sjtt.cc/details/169991697207449309)
 - [面向WebAssembly编程：应用开发方法与实践](http://book.sjtt.cc/details/169991697207239283)
 - [WebAssembly原理与核心技术](http://book.sjtt.cc/details/169991697207077215)
+- [x86汇编语言：从实模式到保护模式（第2版）](http://book.sjtt.cc/details/169918170010070655)
+- [汇编语言（第4版）](http://book.sjtt.cc/details/169918170009881856)
 - [嵌入式Linux设备驱动程序开发指南(原书第2版)2021](http://book.sjtt.cc/details/169918170005486247)
 - [嵌入式C语言自我修养：从芯片、编译器到操作系统](http://book.sjtt.cc/details/169918170005254810)
 - [C++新经典：对象模型](http://book.sjtt.cc/details/169918170004556934)
@@ -52,6 +54,7 @@
 
 ## C#语言
 
+- [深入解析C#（第4版）](http://book.sjtt.cc/details/170055240982655638)
 - [C#函数式编程](http://book.sjtt.cc/details/169949114751759437)
 - [C#经典编程220例](http://book.sjtt.cc/details/169949114751561525)
 - [葵花宝典:WPF自学手册](http://book.sjtt.cc/details/169918170009630757)
@@ -94,6 +97,11 @@
 
 ## Python
 
+- [Python零基础快乐学习之旅（K12实战训练）](http://book.sjtt.cc/details/170055240986125601)
+- [用Python动手学统计学](http://book.sjtt.cc/details/170055240985910457)
+- [Python数据科学零基础一本通](http://book.sjtt.cc/details/170055240982056464)
+- [PythonGUI设计：tkinter菜鸟编程](http://book.sjtt.cc/details/170055240981825428)
+- [Python3网络爬虫开发实战](http://book.sjtt.cc/details/170055240981615061)
 - [Pythonasyncio并发编程](http://book.sjtt.cc/details/170055240970368834)
 - [Python大数据架构全栈开发与应用](http://book.sjtt.cc/details/170055240970148123)
 - [Python贝叶斯分析（第2版）](http://book.sjtt.cc/details/170055240969969665)
@@ -213,6 +221,8 @@
 
 ## 人工智能
 
+- [数据结构与算法图解](http://book.sjtt.cc/details/170055240986559294)
+- [算法训练营（入门篇）](http://book.sjtt.cc/details/170055240986353104)
 - [人工智能算法（卷3）：深度学习和神经网络](http://book.sjtt.cc/details/169983152512972522)
 - [人工智能算法（卷2）：受大自然启发的算法](http://book.sjtt.cc/details/169983152512786253)
 - [人工智能算法（卷1）：基础算法](http://book.sjtt.cc/details/169983152512518138)
@@ -232,6 +242,7 @@
 
 ## Web前端
 
+- [深入浅出Electron](http://book.sjtt.cc/details/170055240986750634)
 - [Vue.js设计与实现](http://book.sjtt.cc/details/169845012017320839)
 - [Bootstrap从入门到项目实战](http://book.sjtt.cc/details/169845012015215133)
 - [BootstrapWeb设计与开发实战](http://book.sjtt.cc/details/169845012015017612)
@@ -284,10 +295,25 @@
 - [奔跑吧Linux内核（第2版）卷2：调试与案例分析](http://book.sjtt.cc/details/170055240972038692)
 - [零基础趣学Linux](http://book.sjtt.cc/details/170055240971854303)
 
+## 教学教材
+
+- [计算机组成原理-第6版(白中英、戴志涛)](http://book.sjtt.cc/details/170055240979822663)
+- [无机及分析化学(严新，徐茂容)](http://book.sjtt.cc/details/170055240979679977)
+- [无机及分析化学学习指导(第二版)(浙江大学)](http://book.sjtt.cc/details/170055240979482419)
+- [数据结构(程桂卿)](http://book.sjtt.cc/details/170055240979235458)
+- [计算机组成原理与汇编语言程序设计（第4版）(徐洁)](http://book.sjtt.cc/details/170055240979051263)
+- [计算机组成原理教程(尹艳辉)](http://book.sjtt.cc/details/170055240978833270)
+- [传感器技术与应用(魏学业)](http://book.sjtt.cc/details/170055240978655264)
+- [模拟电子技术(陈振云)](http://book.sjtt.cc/details/170055240978469233)
+- [现代通信网(姚军毛昕蓉)](http://book.sjtt.cc/details/170055240978289985)
+
 ## 其它
 
-- [x86汇编语言：从实模式到保护模式（第2版）](http://book.sjtt.cc/details/169918170010070655)
-- [汇编语言（第4版）](http://book.sjtt.cc/details/169918170009881856)
+- [大型网站运维](http://book.sjtt.cc/details/170055240987337261)
+- [软件架构设计：实用方法及实践](http://book.sjtt.cc/details/170055240987160643)
+- [架构真意](http://book.sjtt.cc/details/170055240986956708)
+- [边缘计算方法与工程实践](http://book.sjtt.cc/details/170055240982465674)
+- [微服务实战](http://book.sjtt.cc/details/170055240982287835)
 - [埃隆·马斯克传](http://book.sjtt.cc/details/169918170000874558)
 - [太白金星有点烦(马伯庸)](http://book.sjtt.cc/details/169918170000618172)
 - [我与地坛(史铁生2020版)](http://book.sjtt.cc/details/169918170000478080)
