@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2023年12月01日
+更新日期：2023年12月03日
 
 ## C&C++
 
@@ -100,6 +100,8 @@
 
 ## Python
 
+- [OpenCV+TensorFlow深度学习与计算机视觉实战](http://book.sjtt.cc/details/170134290330124023)
+- [OpenCV4计算机视觉项目实战（原书第2版）](http://book.sjtt.cc/details/170134290329915989)
 - [Django3Web应用开发实战](http://book.sjtt.cc/details/170134290327314837)
 - [python学习手册（原书第5版）](http://book.sjtt.cc/details/170116874625747236)
 - [Python3破冰人工智能从入门到实战](http://book.sjtt.cc/details/170116874624743201)
@@ -232,6 +234,11 @@
 
 ## 人工智能
 
+- [深度学习进阶：自然语言处理](http://book.sjtt.cc/details/170134290335153637)
+- [自然语言处理-原理、方法与应用](http://book.sjtt.cc/details/170134290334932205)
+- [HuggingFace自然语言处理详解-基于BERT中文模型的任务实战](http://book.sjtt.cc/details/170134290334753892)
+- [自然语言处理基于预训练模型的方法](http://book.sjtt.cc/details/170134290334524169)
+- [文本上的算法-深入浅出自然语言处理](http://book.sjtt.cc/details/170134290334278496)
 - [图解深度学习与神经网络：从张量到TensorFlow实现](http://book.sjtt.cc/details/170116874623674861)
 - [数据结构与算法图解](http://book.sjtt.cc/details/170055240986559294)
 - [算法训练营（入门篇）](http://book.sjtt.cc/details/170055240986353104)
