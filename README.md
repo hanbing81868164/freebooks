@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2023年12月03日
+更新日期：2023年12月06日
 
 ## C&C++
 
@@ -56,6 +56,7 @@
 
 ## C#语言
 
+- [VisualC#从入门到精通（第9版）](http://book.sjtt.cc/details/170134290346087338)
 - [零基础C#学习笔记](http://book.sjtt.cc/details/170116874625079506)
 - [深入解析C#（第4版）](http://book.sjtt.cc/details/170055240982655638)
 - [C#函数式编程](http://book.sjtt.cc/details/169949114751759437)
