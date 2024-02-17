@@ -1,11 +1,13 @@
 # freebooks
 
-分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
+         分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...           
 
-更新日期：2023年12月06日
+更新日期：2024年02月17日
 
 ## C&C++
 
+- [明解C++](http://book.sjtt.cc/details/170804425916423546)
+- [OpenCV4快速入门](http://book.sjtt.cc/details/170804425915322304)
 - [C++语言的设计和演化](http://book.sjtt.cc/details/170116874625357280)
 - [C++入门经典（第10版）](http://book.sjtt.cc/details/170116874624058528)
 - [汇编语言与接口技术（第4版）](http://book.sjtt.cc/details/170055240976655308)
@@ -66,7 +68,7 @@
 - [深入浅出WPF](http://book.sjtt.cc/details/169918170007015649)
 - [C#从入门到精通（第7版）](http://book.sjtt.cc/details/169918170003936937)
 - [LearningBlazorBuildSingle-PageAppswithWebAssemblyandC#](http://book.sjtt.cc/details/169845012021914978)
-- [ASP.NETCore技术内幕与项目实战\_基于DDD与前后端分离](http://book.sjtt.cc/details/169845012014887934)
+- [ASP.NETCore技术内幕与项目实战_基于DDD与前后端分离](http://book.sjtt.cc/details/169845012014887934)
 - [.NETCore实战——手把手教你掌握380个精彩案例](http://book.sjtt.cc/details/169821884214126142)
 - [.NETCore底层入门](http://book.sjtt.cc/details/169821884214080585)
 - [C#程序员参考手册](http://book.sjtt.cc/details/169797277011985170)
@@ -85,6 +87,7 @@
 
 ## Java
 
+- [Spring微服务实战（第2版）](http://book.sjtt.cc/details/170804425916281687)
 - [Java高并发编程详解：深入理解并发核心库](http://book.sjtt.cc/details/169959493068732123)
 - [基于Kotlin的SpringBoot微服务实战](http://book.sjtt.cc/details/169821884212610788)
 - [疯狂SpringBoot终极讲义](http://book.sjtt.cc/details/169821884212457498)
@@ -235,6 +238,8 @@
 
 ## 人工智能
 
+- [图解深度学习](http://book.sjtt.cc/details/170804425916173563)
+- [AI3.0](http://book.sjtt.cc/details/170804425915983561)
 - [深度学习进阶：自然语言处理](http://book.sjtt.cc/details/170134290335153637)
 - [自然语言处理-原理、方法与应用](http://book.sjtt.cc/details/170134290334932205)
 - [HuggingFace自然语言处理详解-基于BERT中文模型的任务实战](http://book.sjtt.cc/details/170134290334753892)
@@ -262,6 +267,7 @@
 
 ## Web前端
 
+- [前端开发必知必会](http://book.sjtt.cc/details/170804425915721258)
 - [HTML5+CSS3王者归来](http://book.sjtt.cc/details/170134290327230959)
 - [了不起的JavaScript工程师](http://book.sjtt.cc/details/170116874622973008)
 - [深入浅出Electron](http://book.sjtt.cc/details/170055240986750634)
@@ -332,6 +338,7 @@
 
 ## 其它
 
+- [从零开始构建企业级推荐系统](http://book.sjtt.cc/details/170804425915489368)
 - [深入剖析Kubernetes](http://book.sjtt.cc/details/170116874626221907)
 - [大型网站运维](http://book.sjtt.cc/details/170055240987337261)
 - [软件架构设计：实用方法及实践](http://book.sjtt.cc/details/170055240987160643)
@@ -341,7 +348,7 @@
 - [埃隆·马斯克传](http://book.sjtt.cc/details/169918170000874558)
 - [太白金星有点烦(马伯庸)](http://book.sjtt.cc/details/169918170000618172)
 - [我与地坛(史铁生2020版)](http://book.sjtt.cc/details/169918170000478080)
-- [始于极限\_女性主义往复书简](http://book.sjtt.cc/details/169845012023511446)
+- [始于极限_女性主义往复书简](http://book.sjtt.cc/details/169845012023511446)
 - [应得的权利：男性特权如何伤害女性](http://book.sjtt.cc/details/169845012023367366)
 - [必有人重写爱情](http://book.sjtt.cc/details/169845012023186097)
 - [我本芬芳](http://book.sjtt.cc/details/169845012022960738)
@@ -352,11 +359,11 @@
 
 ## 关于作者：
 
-微信：
+         微信：     
 
     ![](imgs/wx.jpg)
 
-公众号：架构师老卢
+         公众号：架构师老卢     
 
     ![](imgs/qrcode.jpg)
 
