@@ -246,6 +246,7 @@
 
 ## 人工智能
 
+- [ChatGPTAI革命](http://book.sjtt.cc/details/170804425957589438)
 - [图解深度学习](http://book.sjtt.cc/details/170804425916173563)
 - [AI3.0](http://book.sjtt.cc/details/170804425915983561)
 - [深度学习进阶：自然语言处理](http://book.sjtt.cc/details/170134290335153637)
