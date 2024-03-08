@@ -2,7 +2,7 @@
 
          分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...           
 
-更新日期：2024年03月07日
+更新日期：2024年03月08日
 
 ## C&C++
 
@@ -333,6 +333,9 @@
 
 ## 教学教材
 
+- [信息系统项目管理师教程（第4版）](http://book.sjtt.cc/details/170804425956953532)
+- [程序员教程（第5版）](http://book.sjtt.cc/details/170804425956715740)
+- [系统架构设计师教程（第2版）](http://book.sjtt.cc/details/170804425956511274)
 - [系统架构设计师教程(第4版)](http://book.sjtt.cc/details/170804425953068637)
 - [系统分析师教程](http://book.sjtt.cc/details/170804425952866787)
 - [网络工程师教程（第5版）](http://book.sjtt.cc/details/170804425952667256)
