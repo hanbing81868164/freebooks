@@ -6,6 +6,8 @@
 
 ## C&C++
 
+- [算法笔记(胡凡，曾磊)](http://book.sjtt.cc/details/170804425957379897)
+- [C/C++程序设计竞赛真题实战特训教程（图解版）](http://book.sjtt.cc/details/170804425957186962)
 - [明解C++](http://book.sjtt.cc/details/170804425916423546)
 - [OpenCV4快速入门](http://book.sjtt.cc/details/170804425915322304)
 - [C++语言的设计和演化](http://book.sjtt.cc/details/170116874625357280)
