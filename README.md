@@ -2,7 +2,7 @@
 
 分享免费编程类电子书资源，高清 PDF 版本资源，目前收录的电子书分类有：有 C 语言，C++，Java，C#，Python，人工智能，Web 前端相关，数据库相关（SQLServer、MySQL、Oracle、SQLite、PostgreSQL 等、自媒体视频剪辑、大厂面试笔试等，每天更新...
 
-更新日期：2024 年 03 月 20 日
+更新日期：2024 年 04 月 18 日
 
 ## C&C++
 
@@ -62,6 +62,7 @@
 
 ## C#语言
 
+- [C#网络应用编程（第 3 版）](http://book.sjtt.cc/details/171336436663769007)
 - [VisualC#从入门到精通（第 9 版）](http://book.sjtt.cc/details/170134290346087338)
 - [零基础 C#学习笔记](http://book.sjtt.cc/details/170116874625079506)
 - [深入解析 C#（第 4 版）](http://book.sjtt.cc/details/170055240982655638)
@@ -91,6 +92,7 @@
 
 ## Java
 
+- [区块链编程](http://book.sjtt.cc/details/171336436664361526)
 - [Tomcat 与 JavaWeb 开发技术详解（第 3 版）](http://book.sjtt.cc/details/171075814935122843)
 - [SpringSecurity 实战](http://book.sjtt.cc/details/171075814929659099)
 - [Spring+SpringMVC+MyBatis 从零开始学](http://book.sjtt.cc/details/171075814929468022)
@@ -112,6 +114,8 @@
 
 ## Python
 
+- [Selenium 自动化测试完全指南：基于 Python](http://book.sjtt.cc/details/171336436665470581)
+- [Python 股票量化交易从入门到实践](http://book.sjtt.cc/details/171336436665277578)
 - [Python 完全自学教程](http://book.sjtt.cc/details/170804425952482843)
 - [Python 数据分析、挖掘与可视化](http://book.sjtt.cc/details/170804425950417520)
 - [Python 程序设计基础(第 2 版)](http://book.sjtt.cc/details/170804425950252933)
@@ -251,6 +255,9 @@
 
 ## 人工智能
 
+- [预测算法](http://book.sjtt.cc/details/171336436665047522)
+- [区块链革命](http://book.sjtt.cc/details/171336436664641440)
+- [智能风控：原理算法与工程实践](http://book.sjtt.cc/details/171336436664182831)
 - [扩散模型从原理到实战](http://book.sjtt.cc/details/171075814935786935)
 - [如何创造可信的 AI](http://book.sjtt.cc/details/171075814935551369)
 - [深度学习高手笔记](http://book.sjtt.cc/details/171075814935361887)
@@ -302,6 +309,7 @@
 
 ## 数据库
 
+- [MySQL 管理之道（第 2 版）](http://book.sjtt.cc/details/171336436664838887)
 - [HBase 入门与实践](http://book.sjtt.cc/details/170804425939079908)
 - [SQL 进阶教程](http://book.sjtt.cc/details/170116874626016510)
 - [达梦数据库运维实战](http://book.sjtt.cc/details/170055240971687458)
@@ -344,6 +352,15 @@
 
 ## 教学教材
 
+- [计算机科学导论第 4 版](http://book.sjtt.cc/details/171249655400110567)
+- [数字逻辑与组成原理实践教程](http://book.sjtt.cc/details/171249655399931446)
+- [计算机科学导论](http://book.sjtt.cc/details/171249655399735655)
+- [高级语言程序设计教程（C 基础与 C++）](http://book.sjtt.cc/details/171249655399513243)
+- [高级语言程序设计学习指导](http://book.sjtt.cc/details/171249655399317058)
+- [离散数学](http://book.sjtt.cc/details/171249655399180347)
+- [数据结构（第 2 版）](http://book.sjtt.cc/details/171249655398987254)
+- [计算机组成与设计第 2 版](http://book.sjtt.cc/details/171249655398781103)
+- [云计算技术、平台及应用案例](http://book.sjtt.cc/details/171249655398576013)
 - [C 语言程序设计实验教程（第 2 版）](http://book.sjtt.cc/details/171075814930054550)
 - [信息系统项目管理师教程（第 4 版）](http://book.sjtt.cc/details/170804425956953532)
 - [程序员教程（第 5 版）](http://book.sjtt.cc/details/170804425956715740)
