@@ -247,6 +247,14 @@
 
 ## Go 语言
 
+- [Go 语言实战](http://book.sjtt.cc/details/171336436667541303)
+- [Go 语言程序设计](http://book.sjtt.cc/details/171336436667370695)
+- [Go 语言核心编程](http://book.sjtt.cc/details/171336436667054250)
+- [Go 语言学习笔记](http://book.sjtt.cc/details/171336436666832470)
+- [Go 语言并发之道](http://book.sjtt.cc/details/171336436666635199)
+- [Go 语言高级开发与实战](http://book.sjtt.cc/details/171336436666418475)
+- [分布式缓存原理、架构及 Go 语言实现](http://book.sjtt.cc/details/171336436666250555)
+- [Go 语言入门经典](http://book.sjtt.cc/details/171336436666044651)
 - [Go 语言设计与实现](http://book.sjtt.cc/details/170116874625519925)
 - [深入学习 Go 语言](http://book.sjtt.cc/details/169845012028082651)
 - [Go 语言底层原理剖析](http://book.sjtt.cc/details/169845012027881371)
